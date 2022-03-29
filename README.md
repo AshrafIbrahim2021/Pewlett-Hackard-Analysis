@@ -18,8 +18,4 @@
 
    - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-<<<<<<< HEAD
-     Yes, there are 1549 employees
-=======
-     Yes, there are 1549 employees
->>>>>>> 3f4afc732bc2479cef0fea59cb05eb7c6026f6a4
+
